@@ -1,0 +1,14 @@
+1.start of project:
+        npm init //to initialize project, package.json
+2.initialization of git
+        git init
+        git remote add origin <link plz>
+        git status
+        git add
+        git add.
+        git commit "message"
+        git push origin master 
+        (or else)
+        git branch -M main (to change from master to main)
+        git push -u origin main (upstream)
+

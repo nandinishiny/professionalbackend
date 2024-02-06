@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "it is a backend of a video clone",
   "main": "index.js",
+  "type":"module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev":"nodemon src/index.js"
   },
   "author": "Nandini Divity",
   "license": "ISC"
